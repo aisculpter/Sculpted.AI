@@ -30,7 +30,7 @@
 .typewriter {
   overflow: hidden;
   white-space: nowrap;
-  animation: typing 2s steps(40, end);
+  animation: typing 1s steps(40, end);
 }
 
 .typewriter-main {
